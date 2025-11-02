@@ -1,0 +1,16 @@
+.custom-bg-color {
+  background-color: #5d3187;  
+}
+
+.custom-button {
+  background-color: #5d3187;
+}
+
+.custom-button:hover {
+  background-color: #76388f; 
+}
+
+.custom-header th {
+  background-color: #5d3187; 
+  color: white;               
+}
